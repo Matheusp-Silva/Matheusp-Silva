@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com a linguagem python com projetos Front e Back-End
-- 🌱 estudando ferramenta de automação Electroneek, além de Javascript
+- 🌱 estudando framework Django
 - 📫 matheusp.silva@outlook.com.br
 
 
